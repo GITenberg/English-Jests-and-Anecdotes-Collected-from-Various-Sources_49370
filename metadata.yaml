@@ -1,4 +1,8 @@
 _repo: English-Jests-and-Anecdotes-Collected-from-Various-Sources_49370
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49370-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Various
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49370#English-Jests-and-Anecdotes-Collected-from-Various-Sources
 gutenberg_issued: '2015-07-05'
 gutenberg_type: Text
 identifiers:
